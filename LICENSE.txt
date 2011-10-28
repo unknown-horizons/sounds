@@ -1,3 +1,12 @@
-./voice/*      selfmade by christoph
-./battle/*     selfmade by magns
-./interface/*  selfmade by magns
+by christoph
+./voice/de/*  
+./voice/en/*  
+
+by magns:
+./battle/cannon.flac
+./battle/cannonhit.flac
+./interface/invalid.wav
+
+by novatlan:
+./battle/uh_battle1_mid_{1..5}.flac
+./events/*
