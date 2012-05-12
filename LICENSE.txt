@@ -10,3 +10,6 @@ by magns:
 by novatlan:
 ./battle/uh_battle1_mid_{1..5}.flac
 ./events/*
+
+by kinshuk:
+./interface/refresh.wav
