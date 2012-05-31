@@ -13,3 +13,5 @@ by novatlan:
 
 by kinshuk:
 ./interface/refresh.wav
+./interface/click2.wav
+./interface/click.wav
