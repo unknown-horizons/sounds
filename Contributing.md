@@ -13,3 +13,13 @@ REQUESTING NEW SOUNDS
 If you are a developer working on Unknown Horizons and need a new sound within the game, create a new issue for the sound in this repository. 
 
 Visit: https://github.com/unknown-horizons/sounds/issues for seeing existing issues. If a request for your sound does not exist, create  a new issue for it.
+
+GO TO DEVELOPERS
+If you are confused or need more information, contact the following developers either here on GitHub, Unknown Horizons Wiki and/or IRC channel:
+* totycro
+* kishuksunil
+
+RESOURCES
+GitHub:  https://github.com/unknown-horizons
+Wiki: http://wiki.unknown-horizons.org
+IRC: #unknown-horizons on irc.freenode.org

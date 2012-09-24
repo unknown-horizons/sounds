@@ -15,3 +15,8 @@ by kinshuk:
 ./interface/refresh.wav
 ./interface/click2.wav
 ./interface/click.wav
+
+FREESOUND.ORG
+Gulls By The Sea by Acclivity
+[http://www.freesound.org/people/acclivity/sounds/13564/]
+CC-By-NC 3.0
