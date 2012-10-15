@@ -11,8 +11,8 @@ inhabitant-level_building_event.ogg
 object_event.ogg
 
 EXAMPLE:
-sailors_warehouse_selected.ogg
-sailors_pavilion_selected.ogg
+warehouse_selected.ogg
+pavilion_selected.ogg
 
 forest_birds.ogg
 forest_animals.ogg
@@ -20,10 +20,10 @@ ambience_wind.ogg
 
 DIRECTORY STRUCTURE
 
-/ambience/	has all ambient sounds
-/battle/	has all battle related sounds
-/buildings/	has all building related sounds
-/collectors/	has all building collector unit sounds
-/events/	has all game events and scenario sounds
-/interface/	has all UI sounds
-/voice/		has all spoken voice sounds
+/ambience/			has all ambient sounds
+/battle/			has all battle related sounds
+/buildings/[inhabitant level]	has all building related sounds for a specific inhabitant level
+/collectors/			has all building collector unit sounds
+/events/			has all game events and scenario sounds
+/interface/			has all UI sounds
+/voice/				has all spoken voice sounds
