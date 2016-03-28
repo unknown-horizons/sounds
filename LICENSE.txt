@@ -17,10 +17,15 @@ by kinshuk:
 ./interface/click.wav
 
 FREESOUND.ORG
-Gulls By The Sea by Acclivity
-http://www.freesound.org/people/acclivity/sounds/13564/
-CC-By-NC 3.0
+SeaGulls by ahill86
+https://www.freesound.org/people/ahill86/sounds/207130/
+Public Domain
+used in buildings/sailors/warehouse/selected/waves_and_gulls.wav
 
+Ocean Lake Sea Shore Waves by GLM_KG
+https://www.freesound.org/people/GLM_KG/sounds/240645/
+Public Domain
+used in buildings/sailors/warehouse/selected/waves_and_gulls.wav
 
 Birdsong - evening in the forest by reinsamba
 http://www.freesound.org/people/reinsamba/sounds/18765/
